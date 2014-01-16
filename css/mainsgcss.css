@@ -1,0 +1,43 @@
+/**
+ * Created by sosgaa on 14-1-14.
+ */
+#img{
+    color: #2d6ca2;
+    font-size: 30px;
+    margin-left: -10px;
+}
+
+#img2,#img3,#img4{
+    display:inline-block;
+    width:200px;
+}
+
+#sgbody{
+    position: absolute;
+    left:10px;
+    top:10px;
+}
+
+.highl{
+    background-color: #f7e1b5;
+}
+
+#navsg{
+    display: table;
+    top:0;
+    margin: 60px 0 0 50px;
+    color: #f7e1b5;
+}
+#btn1{
+    margin-left: 20px;
+}
+
+#bgimg{
+
+}
+.revealer{
+    color:#ffffff;
+}
+.spoiler{
+    color: #ffffff;
+}
